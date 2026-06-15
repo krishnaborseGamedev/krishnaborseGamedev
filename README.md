@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Krishna 👋
 
-<!--
-**krishnaborse211-bot/krishnaborse211-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Unity Game Developer focused on gameplay programming, player systems,
+and animation-driven character controllers. Currently a BCA student exploring
+both game development and machine learning.
 
-Here are some ideas to get you started:
+## 🎮 What I'm Built
+- Third-person obstacle-course shooter (Unity, C#) — custom state machine,
+  vault/climb mechanics, Cinemachine camera, Mixamo animation blending
+- Exploring AI/ML fundamentals through data-driven projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I Use
+Unity 6 · C# · Cinemachine · New Input System · Git · Python · Pandas · Scikit-learn
+
+## 📌 Featured Project
+**CubeBallShooter** — A 3D obstacle-course shooter where the player vaults,
+climbs, and navigates an industrial arena to find and eliminate hidden targets
+within a time limit.
+👉 [Repo](#) · [Gameplay Video](#) · [Playable Build](#)
+
+## 📫 Reach Me
+- Email: krishnaborse211@gmail.com
+- LinkedIn: (add once created)
