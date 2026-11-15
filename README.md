@@ -1,24 +1,32 @@
-# Hi, I'm Krishna 👋
+# Hi, I'm Krishna
 
-Aspiring Unity Game Developer focused on gameplay programming, player systems,
-and animation-driven character controllers. BCA Graduate student exploring
-both game development and machine learning.
+**Unity Game Developer | Gameplay Programmer**
 
-## 🎮 What I'm Built
-- Third-person obstacle-course shooter GAME (Unity, C#) — custom state machine,
-  vault/climb mechanics, Cinemachine camera, Mixamo animation blending
-- Exploring AI/ML fundamentals through data-driven projects
+I'm a BCA student from India who builds gameplay systems in Unity 6 and C#: enemy AI, combat, stealth, and animation. I like turning a mechanic into something playable, and I write up the bugs I fix so I can explain them.
 
-## 🛠️ Tech I Use
-Unity 6 · C# · Cinemachine · New Input System · Git · Python · Pandas · Scikit-learn
+I'm looking for junior Unity developer roles and internships.
 
-## 📌 Featured Project
-**CubeBallShooter** — A 3D obstacle-course shooter where the player vaults,
-climbs, and navigates an industrial arena to find and eliminate hidden targets
-within a time limit.
-👉 [Repo](https://github.com/krishnaborseGamedev/CubeBallShooter) · [Gameplay Video](https://youtu.be/1VIyJboSUVU) · [Playable Build](https://github.com/krishnaborseGamedev/CubeBallShooter/releases/download/v1.0.0/CubeBallShooter_Build.zip)
+## Featured project
 
-## 📫 Portfolio (https://krishnaborse.framer.website)
+### [Ashvale](https://github.com/krishnaborseGamedev/Ashvale) - 3D stealth-action game
+Sneak through a walled village, find the hidden key, and escape. Hand-coded guard AI (a finite state machine with vision and NavMesh), sword combat, win/lose flow, and UI.
+**[Play it (Windows)](https://github.com/krishnaborseGamedev/Ashvale/releases/latest)**
 
-## 📫 Reach Me
-- Email: krishnaborse211@gmail.com
+## More projects
+
+| Project | What it is |
+|---|---|
+| [CubeBallShooter](https://github.com/krishnaborseGamedev/CubeBallShooter) | Third-person obstacle-course shooter. Custom state machine, Cinemachine camera, Mixamo animation pipeline |
+| [Dragon Fight Arena](https://github.com/krishnaborseGamedev/dragon-fight-arena) | 2.5D dragon battle built for a technical assessment. Abilities with cooldowns, health bars, ability UI |
+| [Unity Slot Machine](https://github.com/krishnaborseGamedev/unity-slot-machine) | 3-reel slot machine with a [WebGL version you can play in the browser](https://krishnaborsegamedev.github.io/unity-slot-machine/) |
+
+## Skills
+
+- **Unity:** 3D gameplay, NavMesh AI, state machines, Animator and blend trees, Cinemachine, Input System, UI, URP
+- **Code:** C#, Python (pandas, scikit-learn, Streamlit)
+- **Tools:** Git and GitHub, Mixamo
+
+## Find me
+
+- Portfolio: https://krishnaborse.framer.website
+- LinkedIn: www.linkedin.com/in/krishnaborse
