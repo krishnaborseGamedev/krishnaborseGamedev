@@ -4,7 +4,7 @@
 
 I'm a BCA student from India who builds gameplay systems in Unity 6, Unreal Engine and C#: enemy AI, combat, stealth, and animation. I like turning a mechanic into something playable, and I write up the bugs I fix so I can explain them.
 
-I'm looking for junior Unity developer roles and internships.
+I'm looking for junior Unity or Unreal developer roles and internships.
 
 ## Featured project
 
